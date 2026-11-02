@@ -51,3 +51,9 @@ New lore captured by `/handoff` from any project, waiting for `/lore-review`. En
   - Status: PLACEHOLDER
   - Source: still-blade `ScriptableObjects/Skills/SO_Skill_Surge`, `SO_Skill_KeenEdge`, `ScriptableObjects/Armor/SO_Armor_Training*`, `ScriptableObjects/Gems/`
   - Conflicts: none.
+
+### 2026-11-01 — magic-vs-martial
+- **Hybrid spec prerequisites.** A Hybrid spec's prerequisites would be very demanding (both energies, great discipline), which keeps Hybrids rare.
+  - Status: DRAFT (listed under "Ideas" in the old lore file)
+  - Source: magic-vs-martial `docs/lore/World.md`, before commit `5f33375` (the "Classes and skills" section)
+  - Conflicts: none known.
