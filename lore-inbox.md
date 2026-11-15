@@ -187,3 +187,13 @@ New lore captured by `/handoff` from any project, waiting for `/lore-review`. En
   - Status: DRAFT (user's new direction for still-blade; where it ends is undecided)
   - Source: user, in a worldbuilding session
   - Conflicts: still-blade `docs/PLAN.md` (Phase 56) and the 2026-11-14 inbox entry "The world is one seamless open world" call the 2 x 2 km area "the first continent". That wording is now wrong: the area is part of a province, and the playable world is bigger than one province. Those notes need updating in that repo.
+
+### 2026-11-15 — worldbuilding (still-blade's continent and coast)
+- **still-blade's continent is mid-sized.** A long coastline is not a priority.
+  - Status: DRAFT (user: "mid-sized makes sense to start with i think")
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. Narrows Q56.
+- **still-blade's kingdom is coastal.** The first kingdom built out in this repo sits on a coast. Sea travel (boats, ships) is a normal way to travel, which fits a grand tournament that draws entrants from afar.
+  - Status: DRAFT (user: "i do like the idea")
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. Answers the kingdom half of Q48; whether the province itself is coastal is still open.
