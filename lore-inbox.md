@@ -57,3 +57,93 @@ New lore captured by `/handoff` from any project, waiting for `/lore-review`. En
   - Status: DRAFT (listed under "Ideas" in the old lore file)
   - Source: magic-vs-martial `docs/lore/World.md`, before commit `5f33375` (the "Classes and skills" section)
   - Conflicts: none known.
+
+### 2026-11-11 — still-blade
+- **The Guide and the Quartermaster in the starting area.** The RPG's first zone is a walled training ground where new characters start. Two NPCs stand by the spawn: the Quartermaster, who gives starter orders based on where the character is (gruff drill-sergeant tone, reusing the existing DRAFT character), and the Guide, a separate, friendlier NPC who gives general gameplay tips on request (inspired by the guide NPC in sandbox games). A gate east leads "out there" to the field.
+  - Status: DRAFT (user decided to have both NPCs; "Guide" is a PLACEHOLDER name; their dialogue is placeholder game text)
+  - Source: still-blade `Scripts/Editor/Builders/FirstZoneSceneBuilder.cs`, `ScriptableObjects/Dialogue/SO_Dialogue_Quartermaster.asset`, `SO_Dialogue_Guide.asset`, `docs/PLAN.md` (Phase 28)
+  - Conflicts: `characters.md` calls the Quartermaster "the only NPC and quest giver" (RPG prototype); still-blade now has the Guide and the Artisan as well. `locations.md` describes the prototype's zone ("Alpha Island") as having the Quartermaster, dummies and wolves; still-blade's first zone has no monsters.
+- **Correction to the item above (same day): an intro, then the first city.** The user reshaped it. New characters start in a one-way **intro** (a training ground run by the Quartermaster, with dummies and a pen of weak monsters); once they leave they can never return. The gate leads to the **first city** (unnamed placeholder), where the **Guide** stands prominently in the central plaza as the obvious first NPC to talk to, with the artisan's yard, a market of placeholder vendors (Weapon, Armor, Goods; shops not open yet), and a north gate to the fields. The user cited Conquer Online's flow (intro, then its first city) as the model; none of its names are used. A separate **Training Grounds** players can enter any time may come later.
+  - Status: DRAFT (user's design direction; all names PLACEHOLDER)
+  - Source: still-blade `Scripts/Editor/Builders/IntroSceneBuilder.cs`, `CitySceneBuilder.cs`, `ScriptableObjects/Dialogue/SO_Dialogue_CityGuide.asset`, `SO_Dialogue_IntroQuartermaster.asset`, `SO_Dialogue_VendorClosed.asset`, `docs/PLAN.md` (Phase 28)
+  - Conflicts: as above for the Quartermaster ("the only NPC"); the prototype's "Alpha Island" had wolves, still-blade's intro has generic weak monsters.
+- **Correction (same day): one open world.** The first city is no longer its own scene: it sits inside the open world, walled, with openings straight into the surrounding fields (camps tougher the farther from the city). The user's long-term goal is one continuous world, with a few separate places (e.g. the tournament grounds, possibly a market). The intro stays separate and one-way.
+  - Status: DRAFT (user's design direction; names PLACEHOLDER)
+  - Source: still-blade `Scripts/Editor/Builders/WorldSceneBuilder.cs`, `docs/PLAN.md` (Phase 29)
+  - Conflicts: none known.
+
+### 2026-11-13 — still-blade
+- **Metal coin currency.** Money is copper, silver and gold coins (100 copper to a silver, 100 silver to a gold, shown as e.g. "1g 20s 5c"). Humanoid monsters carry coin. Beasts don't; they drop sellable parts instead.
+  - Status: PLACEHOLDER (a game-system choice; no lore reason was given for either)
+  - Source: still-blade `Scripts/Runtime/Items/CurrencyDefinition.cs` (`Money`), `docs/PLAN.md` (Phases 39-40)
+  - Conflicts: `items.md` says the RPG prototype has no currency. Nothing contradicts metal coins.
+- **Beast parts, a tonic and new skill names.** Items: Pelt and Fang (beast parts, sold to vendors) and Second Wind Tonic (a potion that refills the area skill's resource). Skills: Whirl (a melee area spin). Skyiron and Shardstone are now rare finds that glow on the ground and are announced nearby.
+  - Status: PLACEHOLDER
+  - Source: still-blade `ScriptableObjects/Items/`, `ScriptableObjects/Skills/SO_Skill_Whirl`, `docs/PLAN.md` (Phases 40-45)
+  - Conflicts: `glossary.md` also uses "Second Wind" as a path skill and a TCG Martial healing name; the tonic reuses it.
+- **The world around the first city.** The first city sits in the corner of a 400 m open area. Monster regions get tougher the farther from the city (levels 1-2 near it, up to 9-10 at the edge), with a level 10 elite in the far corner beside a closed road leading beyond. The user wants a much bigger world later, shaped by routes like bridges and passes rather than an open square, possibly with transport between areas.
+  - Status: DRAFT (the layout is the user's direction; numbers and names PLACEHOLDER; where the closed road leads is undecided)
+  - Source: still-blade `Scripts/Editor/Builders/WorldSceneBuilder.cs`, `docs/PLAN.md` (Phase 44)
+  - Conflicts: none known.
+
+### 2026-11-14 — still-blade
+- **The world is one seamless open world, with separate instanced places.** The first continent is planned at 2 x 2 km, walked or crossed without loading screens. The intro, the training grounds, the tournament grounds and future dungeons stay separate places. For now the area around the first city is 1 x 1 km, with the same five level regions stretched outward (levels 1-2 nearest the city, 9-10 at the far edge, the elite and the closed road in the far corner).
+  - Status: DRAFT (the user's structural decision; sizes and names PLACEHOLDER)
+  - Source: still-blade `docs/PLAN.md` (Phase 56), `Scripts/Editor/Builders/WorldSceneBuilder.cs`
+  - Conflicts: refines the 2026-11-13 inbox entry ("The world around the first city", 400 m), which this supersedes in size; none with the lore files.
+
+### 2026-11-14 — still-blade
+- **Charges and momentum.** Two more combat counters beside health, stamina and the discipline: charges (built by landed basic attacks, spent by the E area skill) and a momentum meter (filled by kills in quick succession; full, it gives a short burst of faster attacks and free E). Stamina now pays only the line attack.
+  - Status: DRAFT (user chose the direction; a game mechanic, numbers to tune). Names PLACEHOLDER.
+  - Source: still-blade `docs/PLAN.md` (Phase 57), `ScriptableObjects/Stats/SO_Res_Charge`, `SO_Res_Momentum`, `SO_MomentumRules`
+  - Conflicts: the 2026-10-23 inbox item "Three separate resources" (CANON) says each character has health, stamina and one discipline, and that weapon skills spend stamina; E (an area skill) no longer spends stamina.
+- **First open-world area layout.** Beyond the first city's level 1-10 area lies a river (crossed at two bridges and a corner crossing) and, farther out, a ridge with two passes; levels 11-20 lie beyond the river. Two small outposts (vendor, artisan, a keeper) sit along the way, and fallen players wake at the nearest town.
+  - Status: PLACEHOLDER (test world geography and names: "Field Outpost", "River Outpost", "Outpost Keeper")
+  - Source: still-blade `Scripts/Editor/Builders/WorldSceneBuilder.cs`, `docs/PLAN.md` (Phase 56 step 3)
+  - Conflicts: none known (`locations.md`: no named location exists yet).
+
+### 2026-11-14 — still-blade
+- **Player killing, with infamy.** Players can attack each other anywhere past the river around the first city, by choosing a mode (Peace, Guard, Fray, Open). Attacking an innocent marks you as an Aggressor for a short time; killing one adds infamy, which fades with time. At higher infamy a player becomes an Outlaw, then Condemned: their name turns red, then black, vendors and artisans refuse them, and they drop more on death (the Condemned also a worn piece). Victims drop a bag item and some coin. Towns are safe, and the level 1-10 area inside the river is protected.
+  - Status: DRAFT (the rules are the user's decisions; a game mechanic). Every name is PLACEHOLDER.
+  - Source: still-blade `docs/design/pk-and-tournaments.md`, `docs/PLAN.md` (Phases 66-67), `Scripts/Runtime/Combat/PkRules.cs`, `PkStatus.cs`, `Scripts/Runtime/World/PkZones.cs`
+  - Conflicts: none known. No in-world law, guards or reason is given for any of it; not invented.
+- **Exposure.** A killer's defences against other players weaken gradually the more infamous they are, and recover while they hunt monsters, then weaken again. The user liked the idea and asked that it be gradual, never a sudden drop.
+  - Status: DRAFT (mechanic agreed in principle; numbers to tune). Name PLACEHOLDER.
+  - Source: still-blade `docs/design/pk-and-tournaments.md`, `docs/PLAN.md` (Phase 68; not built)
+  - Conflicts: none known. Why murder would weaken someone, and why hunting restores them, has no in-world explanation; not invented.
+- **Tournament rules.** Refines the 2026-10-23 entry "Two tournaments". Both are single-elimination brackets fought at a tournament ground with several rings, watched by spectators standing around them. The grand tournament has one open bracket for any level and exactly one champion (the user rejected level brackets; a bracketed sister tournament may come later), and is held rarely: weekly or monthly, undecided. Winners earn tournament marks, spent on upgrade materials, and the champion holds a title until the next one.
+  - Status: DRAFT (user's decisions; schedule undecided). "Tournament marks" and the title are PLACEHOLDER.
+  - Source: still-blade `docs/design/pk-and-tournaments.md`, `docs/PLAN.md` (Phases 69-70; not built)
+  - Conflicts: none known. Who runs the tournaments and where the ground is are unknown.
+- **Class trainers.** Path skills beyond the basics are learned from a trainer of your own path, for coin, once you reach the skill's level. One trainer per path stands in the first city ("Attacker Trainer", "Defender Trainer", "Ranged Trainer", "Magic Trainer").
+  - Status: DRAFT (trainers are the user's request; the details were chosen to unblock the build and may change). Names PLACEHOLDER.
+  - Source: still-blade `docs/PLAN.md` (Phase 71), `Scripts/Runtime/World/SkillTrainer.cs`, `ScriptableObjects/Dialogue/SO_Dialogue_Trainer_*.asset`
+  - Conflicts: `magic-and-martial.md` says Magic is born, never learned, though the gift must be trained; a Magic trainer selling skills for coin fits "trained" but hasn't been checked with the user.
+
+### 2026-11-15 — still-blade
+- **The world is a very large planet without global maps.** The user recalls deciding that the world of this repo is a very large planet whose peoples have no complete map of it. Some kingdoms are so far apart that they have no direct contact, and peoples on different continents may not even know each other exist.
+  - Status: DRAFT (the user remembers it as decided, but no lore file records it; confirm at review)
+  - Source: none yet (stated by the user in a still-blade session)
+  - Conflicts: none known. Fits `overview.md` ("conflicts are regional, never universal or planetary"). Raises open questions: which continent and kingdom still-blade is set in and how large a slice of it the game shows (`projects.md` says only "an unnamed region"; Q7, Q11), and where the long-term MMORPG (not yet listed in `projects.md`) and the card game sit relative to it.
+- **still-blade's first continent shape is a placeholder.** The game's 2 x 2 km area was given a coastline with sea all round (2026-11-15) as a stopgap; the user found it unnatural and wants the continent's shape decided from references first, then still-blade's region cut from it.
+  - Status: PLACEHOLDER
+  - Source: still-blade `docs/PLAN.md` (Phase 73), `Scripts/Editor/Builders/WorldSceneBuilder.Continent.cs`
+  - Conflicts: none known.
+
+### 2026-11-15 — worldbuilding (placing still-blade in the world)
+- **Confirmed: a very large planet, several continents, no complete map.** The user confirmed the 2026-11-15 still-blade entry above as DRAFT. The peoples of still-blade's continent know several other continents through trade (so there is sea contact, and their continent has ports somewhere). Continents beyond those may be unknown to them.
+  - Status: DRAFT (user: "Yes, but DRAFT"; "Several, known by trade")
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. Extends `peoples.md` (CANON): "The world is vast… One kingdom may know of another on the far side of the world only through rumor." Which races live on still-blade's continent is undecided (Q52).
+- **still-blade's place in the world.** still-blade's kingdom is one of several human kingdoms. The game's 2 x 2 km open world is one province of that kingdom, not the whole kingdom. The first city is a provincial city, not the capital. Whether the province is coastal or inland waits until a continent shape is chosen.
+  - Status: DRAFT (user's answers)
+  - Source: user, in a worldbuilding session
+  - Conflicts: answers part of Q43 ("one human kingdom or several?": several). `projects.md` says still-blade is "set in an unnamed region"; this narrows it. Coast, capital location and the province's neighbours are open (Q48).
+- **The MMORPG is the eventual full RPG.** The user's long-term MMORPG is the "eventual full RPG" that beautiful-tree prototypes. Where it takes place relative to still-blade (same continent, another continent, a later era) is undecided. Which places and eras the card game's cards draw on is also undecided.
+  - Status: DRAFT (user: "Yes, same game"; the rest undecided)
+  - Source: user, in a worldbuilding session
+  - Conflicts: `README.md` and `projects.md` describe the long-term goal as "a complete, polished RPG"; neither says MMORPG. Open: Q49, Q50.
+- **still-blade's geography is undecided until the world is shaped.** The user has no fixed climate or major features (rivers, ranges, lakes, forests) in mind yet: "we need to figure out the world still!" The test world's river and ridge stay PLACEHOLDER. Where the sky-fallen impact site and the tournament ground sit is also undecided.
+  - Status: undecided (recorded so it isn't mistaken for a gap to fill)
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. Open: Q51, Q53.

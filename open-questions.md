@@ -168,3 +168,26 @@ The plural names (Binders, Reavers) and the old deck names (The Arcane Circle, T
 
 ### Q47. Where do gems come from in the world? Are they sky-fallen like the upgrade materials, and why can the artisan work them?
 **Answer:**
+
+---
+
+## K. Raised placing still-blade in the world (2026-11-15)
+
+### Q48. Is still-blade's province coastal or inland? Where are the kingdom's capital, its ports (for trade with other continents) and its neighbours relative to the province?
+To be decided once a continent shape is chosen.
+**Answer:**
+
+### Q49. Where does the MMORPG take place relative to still-blade: same continent (wider), a different continent, or the same lands in a later era?
+**Answer:**
+
+### Q50. Which places and eras do the card game's cards draw on (the whole world and all eras, still-blade's continent, something else)?
+**Answer:**
+
+### Q51. What is the climate of still-blade's province, and what major features does it and its continent have (great rivers, mountain ranges, lakes or inland seas, forests, marshes)?
+**Answer:**
+
+### Q52. Which races live on still-blade's continent? Do all six share it, or do some live on other continents?
+**Answer:**
+
+### Q53. Where in the kingdom are the sky-fallen impact site and the tournament ground: inside still-blade's province, or elsewhere (e.g. near the capital)?
+**Answer:**
