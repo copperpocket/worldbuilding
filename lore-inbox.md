@@ -197,3 +197,9 @@ New lore captured by `/handoff` from any project, waiting for `/lore-review`. En
   - Status: DRAFT (user: "i do like the idea")
   - Source: user, in a worldbuilding session
   - Conflicts: none. Answers the kingdom half of Q48; whether the province itself is coastal is still open.
+
+### 2026-11-15 — worldbuilding (the province's coast)
+- **still-blade's province is coastal.** The province touches the sea. The sea can bound the playable map, with the wilds inland.
+  - Status: DRAFT (user: "yes coastal province works, go with that")
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. Answers Q48's coastal-or-inland half; the capital, ports and neighbours are still open.
