@@ -217,3 +217,17 @@ New lore captured by `/handoff` from any project, waiting for `/lore-review`. En
   - Status: CANON (user: "something that exists in the lore of our world for sure")
   - Source: user, in a worldbuilding session
   - Conflicts: none. An Earth-like planet with seasons implies an axial tilt; not stated, not invented.
+
+### 2026-11-15 — worldbuilding (continent layout)
+- **Layout of the kingdom's continent.** A mountain range along one side of the kingdom shelters its heartland. A great river runs from the range to the sea, and the capital sits near its mouth or on its plain in the temperate land. Farther along the coast, a long trip away, lies the cool and misty region with moors, marsh and forest inland. Unclaimed wilds lie inland from it.
+  - Status: DRAFT (user: "i like the ideas you suggested for layout")
+  - Source: user, in a worldbuilding session (layout proposed by Claude)
+  - Conflicts: none. Partly answers Q51 and Q48 (neighbours and ports are still open).
+- **The still-blade test world's layout is discarded.** The river, ridge and passes in the test world are not kept. The lore layout is decided here first, then applied to the game in a later session.
+  - Status: CANON (user's decision on process)
+  - Source: user, in a worldbuilding session
+  - Conflicts: supersedes the 2026-11-14 inbox entry "First open-world area layout", which was PLACEHOLDER.
+- **The intro place is not the marshy province.** The user wants the intro (starting) place to be something other than the marshy province discussed earlier. What it is, and its relation to the province, is undecided.
+  - Status: DRAFT
+  - Source: user, in a worldbuilding session
+  - Conflicts: refines "still-blade's place in the world" (the province is the 2 x 2 km area with the first city). Which of the two now holds the first city is open.
