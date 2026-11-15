@@ -169,3 +169,21 @@ New lore captured by `/handoff` from any project, waiting for `/lore-review`. En
   - Status: DRAFT (user's direction). The myth's content is not decided.
   - Source: user, in a worldbuilding session
   - Conflicts: none. Open: Q54, Q55.
+
+### 2026-11-15 — worldbuilding (continents and kingdom scale)
+- **Five or six continents.** The planet has five or six large continents.
+  - Status: DRAFT (user: "yes 5 or 6"; the exact count, sizes and shapes are undecided)
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. Narrows Q56.
+- **No kingdom rules a whole continent, barring a rare exception.** A continent is too vast, and holding it would need too many resources, so every continent holds several realms. This applies to all continents.
+  - Status: CANON (user's decision; the rare exception is allowed but none is defined)
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. Fits `overview.md` ("conflicts are regional").
+- **The grand tournament's kingdom is only part of its continent.** still-blade's kingdom, which holds the grand tournament for line attacks, covers only a portion of one continent. Its province is a smaller slice of that kingdom.
+  - Status: CANON (user's decision)
+  - Source: user, in a worldbuilding session
+  - Conflicts: refines the 2026-11-15 entry "still-blade's place in the world".
+- **still-blade's playable world is the kingdom plus the wilds beyond, not a whole continent.** The game reaches outside the kingdom so players can venture into the wilds for adventures, but it does not cover the entire continent. The user is making this a new decision, because notes in the still-blade repo suggest the whole continent is the goal.
+  - Status: DRAFT (user's new direction for still-blade; where it ends is undecided)
+  - Source: user, in a worldbuilding session
+  - Conflicts: still-blade `docs/PLAN.md` (Phase 56) and the 2026-11-14 inbox entry "The world is one seamless open world" call the 2 x 2 km area "the first continent". That wording is now wrong: the area is part of a province, and the playable world is bigger than one province. Those notes need updating in that repo.
