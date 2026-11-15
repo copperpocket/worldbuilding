@@ -203,3 +203,17 @@ New lore captured by `/handoff` from any project, waiting for `/lore-review`. En
   - Status: DRAFT (user: "yes coastal province works, go with that")
   - Source: user, in a worldbuilding session
   - Conflicts: none. Answers Q48's coastal-or-inland half; the capital, ports and neighbours are still open.
+
+### 2026-11-15 — worldbuilding (climate and the province's distance from the capital)
+- **The province is far from the kingdom's capital.** It is quite a jump away and may not even be the closest province. It is only still-blade's starting area; the player reaches the capital as they progress.
+  - Status: DRAFT (user's direction)
+  - Source: user, in a worldbuilding session
+  - Conflicts: refines the 2026-11-15 entry "still-blade's place in the world" (provincial city, not the capital). Where the capital sits relative to the province is still open (Q48).
+- **Climate mixes temperate and cool maritime.** The land around the capital is temperate, chosen as a good place for the kingdom's first settlers to build up. Nearer the province it is cool, misty and maritime.
+  - Status: DRAFT (user: "mix of both"; temperate near the capital, cool and misty near the province)
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. Partly answers Q51 (climate); major features are still open.
+- **Seasons exist in the world.** The lore has natural seasons. Whether a game shows them is up to that game.
+  - Status: CANON (user: "something that exists in the lore of our world for sure")
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. An Earth-like planet with seasons implies an axial tilt; not stated, not invented.
