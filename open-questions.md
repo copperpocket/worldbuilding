@@ -191,3 +191,16 @@ To be decided once a continent shape is chosen.
 
 ### Q53. Where in the kingdom are the sky-fallen impact site and the tournament ground: inside still-blade's province, or elsewhere (e.g. near the capital)?
 **Answer:**
+
+---
+
+## L. Raised on the planet and the cosmos (2026-11-15)
+
+### Q54. The cracked moon: is it still visible in the sky (broken, ringed, missing a piece)? Did fragments fall in one region or on every continent? Did the cracking change anything for the peoples (a date, a cataclysm, a start of calendars)?
+**Answer:**
+
+### Q55. The creation myth: do the races share one story, or does each race have its own (and do they disagree)? What does each believe about the source of Magic and Martial?
+**Answer:**
+
+### Q56. How many continents, and roughly how large is each relative to the others? Which one is still-blade's, and where are the ocean and the other continents from it?
+**Answer:**

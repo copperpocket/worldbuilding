@@ -147,3 +147,25 @@ New lore captured by `/handoff` from any project, waiting for `/lore-review`. En
   - Status: undecided (recorded so it isn't mistaken for a gap to fill)
   - Source: user, in a worldbuilding session
   - Conflicts: none. Open: Q51, Q53.
+
+### 2026-11-15 — worldbuilding (the planet and the cosmos)
+- **The planet is Earth-like but not Earth, in its own universe.** It is a separate universe from ours, so it is not a far past or future Earth.
+  - Status: CANON (user: "definitely earth like. not in our universe though this would be its own")
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. `locations.md` has a modern-day Earth card shop, but that is the TCG's frame setting, outside the world.
+- **The planet is larger than an average Earth-like planet.** The size explains the great distances between kingdoms, and why peoples on different continents may not know each other.
+  - Status: CANON (user's decision)
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. Extends the DRAFT "very large planet" entry above.
+- **Several large continents, not one supercontinent.** A handful of big continents, explicitly not a single Pangaea-like landmass. Exact number and shapes are undecided.
+  - Status: CANON for "several, not one"; the count and shapes are undecided
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. Feeds Q48, Q51, Q52.
+- **The sky-fallen materials are fragments of a cracked moon.** Skyiron, Starheart and Shardstone come from pieces of a moon that broke. What cracked it is a mystery to the inhabitants and, for now, to the author: it could be a natural cosmic event or something mystical.
+  - Status: DRAFT (user likes the idea; cause deliberately left open)
+  - Source: user, in a worldbuilding session
+  - Conflicts: `history.md` says "something fell from the sky (perhaps a meteor)" in one human kingdom's region; a moon fragment fits, but whether the fall hit one region or many is open (Q46, Q53, Q54).
+- **Creation is unexplained for now, but needs an in-world myth before the game ships.** The inhabitants wonder where they came from and hold their own creation myth(s); they need not be correct. The author's own answer stays open and may grow as the world is built. Magic and Martial energy suggest some cosmic or higher power; hint at it early and keep a rough plan.
+  - Status: DRAFT (user's direction). The myth's content is not decided.
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. Open: Q54, Q55.
