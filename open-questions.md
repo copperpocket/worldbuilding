@@ -97,22 +97,22 @@ The plural names (Binders, Reavers) and the old deck names (The Arcane Circle, T
 ## F. Characters
 
 ### Q29. Who are Champions (legends of history, present-day leaders, adventurers), and what does a TCG match represent?
-**Answer:**
+**Answer:** Leaning: Champions are present-day figures (leaders, captains, renowned fighters), so they can appear in the RPG. A match is a battle one of them commands. Legendary units can be from the present or from history.
 
 ### Q30. What did Vaelith burn, and who exiled her? Is she connected to Ilvara, "the Last Flame" (also a high-elf fire mage)?
-**Answer:**
+**Answer:** Leaning: Vaelith burned a living sacred grove to win a battle. High elves revere life as the source of Magic, so their ruling council exiled her. Ilvara, the Last Flame, was her teacher and the last of an old high-elf order of war-mages the council disbanded.
 
 ### Q31. Are Thoren Ashguard and Bram Ironvow, "the Unbreached" (both dwarf defenders), connected?
-**Answer:**
+**Answer:** Leaning: Bram Ironvow is a dwarf of history whose gate was never breached; his vow is still sworn by dwarven pass-holders, Thoren among them.
 
 ### Q32. Is "The Unbroken Blade" a person or a weapon? What is Hroth's "Red Harvest"?
-**Answer:**
+**Answer:** Leaning: both a weapon and a title: an old orc blade that has never broken, and the title of whoever wins and carries it. Hroth's "Red Harvest" is the battle in a harvest field where his sweeping axe held the field alone.
 
 ### Q33. Who will the Archmage and the Warlord become?
-**Answer:**
+**Answer:** Leaning: the Archmage becomes a human Tempest mage and the Warlord an orc Reavers chieftain, giving humans and orcs their first Champions.
 
 ### Q34. Who does the RPG Quartermaster serve, and why is the player being trained? Is he connected to the dwarf Quartermaster card in the TCG?
-**Answer:**
+**Answer:** Leaning: whom he serves and why he trains newcomers at the threshold stays his mystery (Q63). He is not the TCG's dwarf Quartermaster; that card is a role, not a person. still-blade will rename him to fit his mystic role (see Q64).
 
 ---
 
@@ -216,3 +216,11 @@ To be decided once a continent shape is chosen.
 
 ### Q63. What is the threshold (the instanced intro place) and why is the Quartermaster there? Is it linked to the creation story, to portals and magical items, and what other entities live in it? Deliberately a mystery; record decisions here as they come.
 **Answer:** The threshold is not still-blade's intro alone. It is a cosmic place outside normal space that exists for the whole planet, tied to creation and the cosmic questions; still-blade's intro is one gateway into it. Some regions may not know it exists; whether portals make it common knowledge is open. Name: Threshold (PLACEHOLDER; "Limen", Latin for threshold, kept as an alternative). Still open: why the Quartermaster is there, what else lives in it, links to portals and magical items.
+
+---
+
+## M. Raised answering questions (2026-11-15)
+
+### Q64. What is the threshold keeper's name or title in still-blade?
+"Quartermaster" is generic and fit the old garrison idea; still-blade wants a name that fits his mystic role at the threshold.
+**Answer:**
