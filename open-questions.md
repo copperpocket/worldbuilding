@@ -67,30 +67,30 @@ They're typed Beast, but "Hired Ogre" implies someone who takes pay.
 
 ### Q21. Are constructs magical?
 Stone Sentinels are "conjured" and Rune Shards "rune-carved", but Brass Automaton and Siege Golem are Neutral constructs any Champion can field.
-**Answer:**
+**Answer:** Leaning: two kinds. Binder constructs (Stone Sentinel, Rune Shard, golems) are moved by Magic bound into runes. Neutral constructs (Brass Automaton, Siege Golem, Siege Ballista) are machines built by engineers and need no gift, which is why any Champion can field them; "Siege Golem" is a soldier's nickname for a crewed war engine.
 
 ### Q22. How does Martial healing work in-world (Second Wind)?
-**Answer:**
+**Answer:** Leaning: a fighter turns their whole inner reserve on their own body to drive it past a wound. It heals only oneself and costs everything at once (matches still-blade's Second Wind). Healing others needs surgeons, herbalists or Magic.
 
 ### Q23. Is there an in-world reason why Magic moves only enemies and Martial only its own units, why Casters pierce Armor, and why only Martial units Overrun?
 **Answer:** The world rule is where the energy comes from: Magic is drawn from the world around the user, Martial from within. Neither is limited in how it acts (Martial could launch something outward). The TCG's movement, Armor and Overrun asymmetries are game design, not world rules.
 
 ### Q24. Where do the RPG's frost and healing spells fit?
 Tempest covers fire and storm; no spec covers frost. Mend is self-healing magic. Do they belong to existing specs, future specs, or sub-specs?
-**Answer:**
+**Answer:** Leaning: in the world, Magic can take any form (fire, frost, storm, healing). Which spec or path covers which is decided per game (see Q26).
 
 ### Q25. Are specs also organizations (an order, a guild)?
 The plural names (Binders, Reavers) and the old deck names (The Arcane Circle, The Iron Company) suggest groups.
-**Answer:**
+**Answer:** Leaning: specs are ways of fighting, not organizations. Local orders and guilds teach them and often give the joining quest; the Arcane Circle and the Iron Company are examples of such local groups. "Binders" and "Reavers" just mean practitioners.
 
 ### Q26. Are the four specs top-level paths, or sub-specs of something broader?
 **Answer:** Paths, specs and their tiers are decided per game. World lore says only that cultures train fighters differently by region. still-blade may have paths only (undecided); the MMORPG gets more depth.
 
 ### Q27. Why do the dead come back in the RPG (player and enemy respawn)? An in-world reason, or purely a game mechanic?
-**Answer:**
+**Answer:** A game mechanic only. Death in the world is real; no lore explains respawning.
 
 ### Q28. Is the RPG's level cap of 60 intended, given specs are earned around levels 5-10?
-**Answer:**
+**Answer:** Not lore. Each game sets its own levels and cap.
 
 ---
 
