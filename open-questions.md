@@ -221,4 +221,7 @@ To be decided once a continent shape is chosen.
 **Answer:** Leaning: Temperate.
 
 ### Q62. Why is a new character at the intro garrison post (basic training, a travel clearance, newcomers registered on arrival, a military start ending in discharge, or something else)? It must fit crafters, traders and hunters who never plan to fight in the tournament.
+**Answer:** Leaning: The intro garrison is a threshold: a magical place outside normal space, entered once and never returned to. See the lore-inbox entry on the threshold.
+
+### Q63. What is the threshold (the instanced intro place) and why is the Quartermaster there? Is it linked to the creation story, to portals and magical items, and what other entities live in it? Deliberately a mystery; record decisions here as they come.
 **Answer:**

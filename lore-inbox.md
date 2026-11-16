@@ -365,3 +365,25 @@ Human kingdoms only. Every title is a PLACEHOLDER as a name.
   - Status: undecided
   - Source: user, in a worldbuilding session
   - Conflicts: none. Open: Q62.
+
+### 2026-11-15 — worldbuilding (the threshold)
+- **The intro garrison is a threshold.** It is not an ordinary fort that happens to be instanced. It is a magical place outside normal space, whose door opens one way, which is why a character can never return. The user hopes it connects to the world's creation and mystic story.
+  - Status: DRAFT (user: "i like the threshold idea. it adds some mystery")
+  - Source: user, in a worldbuilding session (idea proposed by Claude)
+  - Conflicts: replaces the "garrison post of the province's forces" entry of the same day and the road clearance idea. A real garrison post and its Captain or Castellan are no longer needed.
+- **The Quartermaster has a deeper, unknown story.** He is alone in the threshold, meeting newcomers and training them in a comedic, gruff way. He turns up at points in still-blade's main quest to guide the player, and the player learns more about him and the threshold over time. Why he is there is deliberately unknown. Beyond still-blade he carries little long-term weight.
+  - Status: DRAFT (user's direction; "a deeper story we do not know yet")
+  - Source: user, in a worldbuilding session
+  - Conflicts: `characters.md` calls the Quartermaster "the only NPC and quest giver" (RPG prototype) and implies a garrison. This is now a threshold-keeper in still-blade.
+- **The threshold implies other magical things.** Portals and magical items could relate to it, and other entities may exist within it. Nothing is defined.
+  - Status: DRAFT (user: "a good idea... it does introduce the idea of other entities inside the threshold")
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. Open: Q63.
+- **No "walkers" concept.** Player characters are not a defined special kind of person in the lore. The user dropped that idea.
+  - Status: CANON (user: "i dont like us defining walkers or it even being a thing")
+  - Source: user, in a worldbuilding session
+  - Conflicts: none.
+- **still-blade picks the path at creation.** "A character picks a race, not a class, trains, then earns a spec" is the long-term MMORPG's design (`overview.md`, `specializations.md`). still-blade lets the player choose their spec on creation, and that fits its own game.
+  - Status: DRAFT (user: "game specific")
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. `overview.md` says "In the RPG"; it could name the MMORPG so it isn't read as applying to still-blade.
