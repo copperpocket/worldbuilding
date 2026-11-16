@@ -299,3 +299,13 @@ Human kingdoms only. Every title is a PLACEHOLDER as a name.
   - Status: DRAFT (user's correction)
   - Source: user, in a worldbuilding session
   - Conflicts: overrides the 2026-11-15 notes that the first city is "a provincial city" and the proposal that the starting town is the seat. The intro area's size and name are open.
+
+### 2026-11-15 — worldbuilding (the intro town)
+- **The intro area is a town.** It holds the Guide and several NPCs with different goods, which makes it a town and not a village. It is a town so that it is at least a little significant in the player's introduction. It is not the province's seat.
+  - Status: DRAFT (user's decision)
+  - Source: user, in a worldbuilding session
+  - Conflicts: refines the 2026-10 to 2026-11 inbox entries that called it "the first city".
+- **The artisan's place is undecided.** One artisan stays in the intro town for testing; in the lore the artisan may live only in the capital. Whether only one person can work the sky-fallen materials or several can is also undecided, and the user says it is not important right now.
+  - Status: undecided
+  - Source: user, in a worldbuilding session
+  - Conflicts: `characters.md` and `items.md` say "the one artisan" (DRAFT) in the tournament kingdom.
