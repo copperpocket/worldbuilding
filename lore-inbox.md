@@ -331,3 +331,21 @@ Human kingdoms only. Every title is a PLACEHOLDER as a name.
   - Status: DRAFT (user: "yes that sounds fine for now")
   - Source: user, in a worldbuilding session
   - Conflicts: none.
+
+### 2026-11-15 — worldbuilding (the capital's province and the misty province)
+- **The two conflicts in the previous entry are void.** The user made those earlier statements before a province was defined, so "far from the capital" and "cool and misty near the province" no longer apply as written.
+  - Status: DRAFT (user's clarification)
+  - Source: user, in a worldbuilding session
+  - Conflicts: supersedes the 2026-11-15 entries "The province is far from the kingdom's capital" and the climate half of "Climate mixes temperate and cool maritime".
+- **The capital sits in a province with a Duke or Duchess.** The intro town and the capital are in the same province, relatively close to each other. The crown and the Duke or Duchess both carry out their normal duties there; the province is not a royal domain.
+  - Status: DRAFT (user: "i didn't really think it would be an issue to have the crown and the duke/duchess both handling their regular duties")
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. Where the Duke or Duchess lives (the capital or another city) is not yet said.
+- **The intro region and the capital are temperate.** Both are temperate, being close together.
+  - Status: DRAFT
+  - Source: user, in a worldbuilding session
+  - Conflicts: none.
+- **The cool, misty province is a nearby province.** The misty maritime idea stays, as a neighbouring province players travel to later to continue levelling.
+  - Status: DRAFT
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. Its name, seat and ruler are open.

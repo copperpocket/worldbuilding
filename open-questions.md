@@ -215,7 +215,7 @@ To be decided once a continent shape is chosen.
 **Answer:**
 
 ### Q60. Is the intro region in the capital's own province, or in a neighbouring duchy? If it is the capital's province, who rules it (the crown directly as a royal domain, or a Duke or Duchess with the capital as a separate city)?
-**Answer:**
+**Answer:** Leaning: Capital province, ruled by a Duke or Duchess, with the crown present in the capital (a royal domain was not chosen). Intro town and capital share the province.
 
 ### Q61. What is the intro region's climate now that it is near the capital: temperate, or cool and misty inland of the coast, or a mix?
-**Answer:**
+**Answer:** Leaning: Temperate.
