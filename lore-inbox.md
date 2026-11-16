@@ -231,3 +231,46 @@ New lore captured by `/handoff` from any project, waiting for `/lore-review`. En
   - Status: DRAFT
   - Source: user, in a worldbuilding session
   - Conflicts: refines "still-blade's place in the world" (the province is the 2 x 2 km area with the first city). Which of the two now holds the first city is open.
+
+### 2026-11-15 — worldbuilding (human kingdom structure and titles)
+All of the following is for human kingdoms only. Other races will have their own. Every title is a PLACEHOLDER as a name, per the naming rule.
+- **Two kinds of word.** Political words describe belonging (kingdom, province, seat, capital, grant); place words describe size (city, town, village, hamlet, fort or outpost). A place can hold a political role: a town can be a province's seat.
+  - Status: DRAFT (user: "i like the structure you've laid out")
+  - Source: user, in a worldbuilding session
+  - Conflicts: none.
+- **Settlement ladder, largest to smallest.** City, town, village, hamlet (a few households, no market; a lone dwelling is a homestead), plus fort or outpost (a garrison). Cities are rare, often one per province, and usually a capital or seat; most settlements are towns or villages.
+  - Status: DRAFT
+  - Source: user, in a worldbuilding session
+  - Conflicts: none.
+- **Province and seat.** A province is a large region of a kingdom, run by a ruler the crown appoints, usually from a noble family. Its seat is the settlement where the ruler lives and the province is run from, normally its largest place (a city or a town). A kingdom holds several provinces and is never a whole continent.
+  - Status: DRAFT
+  - Source: user, in a worldbuilding session
+  - Conflicts: none.
+- **Who appoints whom.** The crown appoints the province ruler; the province ruler appoints town heads and fort commanders; villages and hamlets choose locally, and a hamlet answers to the nearest village. A settlement that follows no standard is allowed.
+  - Status: DRAFT
+  - Source: user, in a worldbuilding session
+  - Conflicts: none.
+- **Titles by level.** Kingdom: King or Queen (heir: Crown Prince or Crown Princess). Province: Duke or Duchess (Count or Countess kept in reserve for a lesser region). City: Consul. Town: Reeve. Village: Elder. Hamlet: no ruler. Frontier fort: Warden; keep: Castellan; lesser post: Captain (military ranks still to be defined).
+  - Status: DRAFT (user: "yes, all four, record it as DRAFT")
+  - Source: user, in a worldbuilding session
+  - Conflicts: none.
+- **Written and spoken forms.** The title comes before the name, with "of [place]" for formal use ("Duke Corin Hale of Greywater"). Titles are not gendered except King, Queen, Prince, Princess, Duke, Duchess, Count and Countess. Honorifics ("Your Majesty", "Your Highness") are suggestions.
+  - Status: DRAFT
+  - Source: user, in a worldbuilding session
+  - Conflicts: none.
+- **City council.** Every city has a council of up to seven offices, led by the Consul: Marshal (guard and defence), Chamberlain (coin and taxes), Magistrate (law), Guildmaster (the trades), Harbormaster (the port, only in a port city), Speaker (ordinary residents). In a seat city the Duke or Duchess rules and the council reports to the Consul, who runs the city. In a chartered city the council governs by vote, the Consul chairs and breaks ties, and the Duke or Duchess and the crown can overrule. A chartered city is a second city in a province, with a crown charter, and is rare.
+  - Status: DRAFT
+  - Source: user, in a worldbuilding session
+  - Conflicts: none.
+- **Town moot.** Large or rich towns may have a Town Moot of guild heads and elders that advises the Reeve. Small towns have none. A village may have an elders' circle.
+  - Status: DRAFT
+  - Source: user, in a worldbuilding session
+  - Conflicts: none.
+- **The royal family is small.** The crown, the consort (Queen Consort or Prince Consort), the children (Prince or Princess), the monarch's siblings and parents (a widowed ruling parent is a Dowager). Everyone else is kin of the crown and holds noble titles, so a Duke is often a close kinsman of the crown.
+  - Status: DRAFT (user: "small model works")
+  - Source: user, in a worldbuilding session
+  - Conflicts: none.
+- **Allied grants.** The crown can grant land inside a kingdom to an allied race (dwarves, halflings, elves) as a rare grant. They rule it by their own customs and owe the crown allegiance.
+  - Status: DRAFT (user: "interesting... here and there when appropriate")
+  - Source: user, in a worldbuilding session
+  - Conflicts: `peoples.md` says each race governs itself and even allies only tolerate each other; a grant inside a human kingdom fits only as a rare exception.
