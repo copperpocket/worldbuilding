@@ -148,26 +148,26 @@ The plural names (Binders, Reavers) and the old deck names (The Arcane Circle, T
 **Answer:** Leaning: decided per game (see Q26). Whether still-blade's Magic path gets a spec, and how, is a still-blade design question.
 
 ### Q42. Martial energy not restoring mid-fight (still-blade) vs TCG Champions gaining charges every turn and Bloodrush (Martial energy from kills in combat): a medium difference or a world rule? And why does it restore slowly in neutral zones like towns?
-**Answer:**
+**Answer:** Leaning: Martial energy comes from within, so it doesn't seep back during a fight, but action kindles it: landed blows and kills (still-blade's charges and momentum, the TCG's Bloodrush). TCG charges every turn abstract a whole army. It restores at rest because cultivating needs calm; in towns a fighter can lower their guard, in the wilds they can't.
 
 ### Q43. The human tournament (still-blade): what is it, who holds it, and is it related to the in-world card game's tournaments?
-**Answer:**
+**Answer:** Leaning: the crown's own tradition, held at a tournament ground near the capital. It shows off the kingdom's fighters and draws recruits; humans only, because it is a rite for the crown's subjects. Not related to the in-world card game.
 
 ### Q44. The prestige / rebirth idea lets a character gain Magic, but canon says Magic is born, never learned, and it is not an awakening of a latent gift. How do the two fit?
-**Answer:**
+**Answer:** Leaning: rebirth is a literal new birth: a new character born with the gift who inherits something from the old one. No one gains Magic during a life. The system stays deferred.
 
 ---
 
 ## J. Raised by lore review (2026-10-22)
 
 ### Q45. still-blade grants skills from paths by level (learned from trainers). Is there an in-world reason, or is it purely a game mechanic alongside "skills built by training, questing and practicing"?
-**Answer:**
+**Answer:** Leaning: trainers are the "training" in "training, questing and practicing". A trainer teaches a technique once the student is ready; the level number is the game's measure of readiness.
 
 ### Q46. The sky-fallen upgrade materials: what fell, and when? Who is the artisan, and why can only they work the materials?
 **Answer:** Leaning: the moon fragments fell across many lands, most heavily in still-blade's region, so most of what survives is there; elsewhere much was used up, decayed or buried over the millennia. Small amounts remain in other regions, where artisans work them in their own ways, so the materials behave differently by region. Still open: who the artisan is and why only they can work them in this region.
 
 ### Q47. Where do gems come from in the world? Are they sky-fallen like the upgrade materials, and why can the artisan work them?
-**Answer:**
+**Answer:** Leaning: ordinary stones from the earth, not sky-fallen; monsters hoard bright things. Only moon-worked gear has sockets, and only the artisan can set a stone into moon-metal so it takes hold.
 
 ---
 
