@@ -18,7 +18,11 @@ How each game uses the world. Development details stay in each project's own doc
 - **Art direction for magic:** fire orange, frost light blue, healing green, melee red-brown; pastel level-up text. DRAFT
 
 ## still-blade
-- **Set in an unnamed region** where people are trained from youth into one of four paths (Attacker, Defender, Ranged, Magic). See `specializations.md`. DRAFT
+- **Set in a human kingdom** on a mid-sized continent: the capital's province, a nearby cool province and the wilds beyond, not a whole continent. See `locations.md` and `human-kingdoms.md`. DRAFT. People there are trained from youth into one of four paths (Attacker, Defender, Ranged, Magic); see `specializations.md`. The player picks a path at creation. DRAFT
+- **Structure:** one seamless open world with separate instanced places: the intro (a threshold, levels 1-2), the tournament grounds, the training grounds and future dungeons. The intro town and its surroundings cover about levels 3-10; the capital is introduced around level 10. Sizes and names PLACEHOLDER. DRAFT
+- **Three separate resources:** every character has health, stamina and one discipline pool, Magic or Martial. Stamina is its own pool, restores by sitting, and pays the line attack. CANON (user decided; a game mechanic)
+- **Charges and momentum:** charges are built by landed basic attacks and spent by the E area skill; a momentum meter fills with kills in quick succession and, when full, gives a short burst of faster attacks and free E. DRAFT (a game mechanic; numbers to tune)
+- **Player killing and infamy:** players can attack each other past the protected starting area by choosing a mode (Peace, Guard, Fray, Open). Attacking an innocent marks an Aggressor; killing one adds infamy, which fades. Higher infamy makes an Outlaw, then Condemned, refused by vendors and artisans and dropping more on death. Towns are safe. An "exposure" idea weakens a killer's defences gradually. DRAFT (game rules; all names PLACEHOLDER; no in-world law or reason is given and none is invented)
 - **The player character is always human** (male or female, human customization). The idea: only humans may take part in a tournament held in the human kingdom, and only humans are allowed there. Other races can still appear out in the world. DRAFT ("the idea could be")
 - Martial energy restores only out of combat (stamina loop). See `magic-and-martial.md`. DRAFT
 - A prestige / rebirth system is a deferred idea. DRAFT

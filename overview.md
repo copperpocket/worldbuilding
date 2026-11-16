@@ -4,6 +4,8 @@ The essentials of the world. Read this first; open other files only when the tas
 
 The world, its continents and its realms have no names yet.
 
+The world is an **Earth-like planet in its own universe**, larger than average, with **several continents**; no kingdom rules a whole one. CANON Details: `locations.md`.
+
 ## Tone
 - **Dark fantasy, kept grounded.** Conflicts are regional, never universal or planetary. CANON
 - **No "faction vs faction"** (no WoW-style Alliance and Horde). Each race governs itself, like countries in real life. CANON

@@ -32,9 +32,10 @@ Every lore entry carries one of these:
 | `peoples.md` | The races |
 | `magic-and-martial.md` | The two energies and the in-world reasons behind mechanics |
 | `specializations.md` | Specs: how they're earned, the four specs, Hybrids |
+| `human-kingdoms.md` | How human kingdoms are organized: settlements, titles, councils, military |
 | `characters.md` | Champions, Legendaries, NPCs, role archetypes |
 | `creatures.md` | Beasts, spirits, constructs, dragons |
-| `locations.md` | Places (very few named yet) |
+| `locations.md` | The planet, the continents, still-blade's slice, places (very few named yet) |
 | `history.md` | The past (very little yet) |
 | `items.md` | Gear, artifacts, objects |
 | `glossary.md` | Terms across all projects |

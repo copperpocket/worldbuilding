@@ -12,6 +12,6 @@ Each exists only as a phrase. DRAFT
 - Vaelith Arandor was exiled "for what she burned."
 - Thoren Ashguard "has never lost a pass he was sent to hold."
 - "Famous battles from the lore" that TCG tournaments could recreate.
-- Something fell from the sky (perhaps a meteor) in the region of the tournament's human kingdom, leaving the gear-upgrade materials. DRAFT (idea, still-blade). See `items.md`.
+- **The moon cracked,** and fragments fell from the sky, leaving the gear-upgrade materials (Skyiron, Starheart, Shardstone). What cracked it is unknown to the inhabitants and the author: a natural cosmic event or something mystical. Whether fragments fell in one region or many is open. DRAFT (still-blade). See `items.md` and `locations.md`.
 
 Note: dated entries in project docs (rules versions, handoffs) are development history, not in-world history.

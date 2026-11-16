@@ -10,6 +10,7 @@
 - **The races are fiercely independent.** Even allies only *tolerate* each other. Some are not allied at all and don't allow other races into their capitals unescorted. Which races are allied is not stated. CANON (TCG)
 - **Each race governs itself.** CANON. The only examples of political form are "human kingdoms" and "orc chieftains". DRAFT (TCG)
 - Each race has its own present-day conflicts; these are not yet defined.
+- **Rare exception:** a human crown can grant land inside its kingdom to an allied race (dwarves, halflings, elves), which rules it by its own customs. DRAFT. See `human-kingdoms.md`.
 - **The world is vast.** There are no world-spanning factions. One kingdom may know of another on the far side of the world only through rumor, and as strangers they are more likely hostile than allied. CANON
 
 ## Aptitude for Magic and Martial

@@ -7,7 +7,9 @@ The words "Magic", "Martial" and "Command" are working names. Original in-world 
 - **Magic is born.** Without the innate gift, a person can never learn it.
 - **The gift must still be trained.** A born mage needs training to use Magic properly. CANON
 - **Martial energy comes from within**, "like jing". Anyone can develop it through discipline and training. At its height it is almost supernatural and comparable to Magic, but it is a different energy that behaves differently.
-- **Martial energy does not restore during combat.** Because it comes from within, a fighter restores it by sitting still to cultivate it, or slowly in neutral zones like towns. DRAFT (still-blade). Tension with TCG charges every turn and Bloodrush; no reason yet for slow restoring in towns. See open questions.
+- **Aptitude is a spectrum on both sides.** Among those born with the Magic gift, some are strong and some are so weak they never unlock anything, and may not know they have it (perhaps only slightly better reflexes or a small gift). Martial can be learned by anyone with enough dedication, but some are naturally more gifted. Magic skills can be trained, but only by those born with the gift, so a Magic trainer is consistent with "born, never learned". DRAFT
+- **Martial energy does not restore during combat** (TCG). Because it comes from within, a fighter restores it by sitting still to cultivate it, or slowly in neutral zones like towns. DRAFT (still-blade). Tension with TCG charges every turn and Bloodrush; no reason yet for slow restoring in towns. See open questions.
+- **still-blade:** Magic and Martial restore the same way for now: a steady trickle, including during combat. DRAFT ("keep them both the same for now"). Differs from the line above; see Q42.
 - **Both are arts beyond what untrained commoners can do.**
 
 ## Prestige / rebirth (idea)
@@ -23,6 +25,7 @@ The words "Magic", "Martial" and "Command" are working names. Original in-world 
 ## Hybrids
 - Holding both energies is possible but very rare. The energies oppose each other in the body, and it takes great discipline and specific circumstances. CANON (TCG)
 - Idea: a Hybrid's energies pull against each other (spending one weakens or costs the other). DRAFT (TCG)
+- **A Hybrid spec's prerequisites would be very demanding** (both energies, great discipline), which keeps Hybrids rare. In theory a Magic wielder could also harness Martial, but that would be too strong, so it stays very rare. DRAFT
 
 ## Mechanics with an in-world reason
 All DRAFT unless marked. Source: TCG.

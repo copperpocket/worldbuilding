@@ -43,3 +43,12 @@ Status is for the term as a lore word. Project: TCG = Magic vs Martial, RPG = be
 | Quartermaster | RPG quest-giver NPC; also a dwarf TCG card | DRAFT | Both |
 | Training Dummy | Practice target / tutorial enemy | PLACEHOLDER | RPG |
 | Alpha Island | The RPG test zone | PLACEHOLDER | RPG |
+| Province / duchy / county | A large region of a kingdom; a duchy is one ruled by a Duke or Duchess, a county a smaller one ruled by a Count or Countess | DRAFT | World |
+| Seat | The settlement where a province's ruler lives | DRAFT | World |
+| Consul / Reeve / Elder | Heads of a city / town / village | PLACEHOLDER | World |
+| Duke, Duchess / King, Queen | Rulers of a province / a kingdom | PLACEHOLDER | World |
+| Protector / Castellan / Commander | City military head / castle or fort leader / city guard (and other branch) leader | PLACEHOLDER | World |
+| Marshal / Warden / Admiral | Army head / border region commander / fleet leader | PLACEHOLDER | World |
+| Captain, Sergeant, Veteran, Soldier, Recruit | Ranks beneath a branch leader | PLACEHOLDER | World |
+| Ser | Address for a knight (neutral) | PLACEHOLDER | World |
+| Threshold | The magical, one-way intro place of still-blade | DRAFT | SB |

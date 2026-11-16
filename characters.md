@@ -33,10 +33,12 @@ Each has only a name, epithet, race and rules text. The TCG has no flavor-text f
 | The Ashen Wyrm | Beast | Neutral | Flying; Arrival: 2 damage around it, both sides |
 
 ## RPG characters (beautiful-tree)
-- **Quartermaster:** the only NPC and quest giver. A job title, not a personal name. Dry, gruff, drill-sergeant tone: "Those dummies won't break themselves." / "Not bad. You might survive out there after all." The title implies a garrison, army or camp. DRAFT
+- **Quartermaster:** the only NPC and quest giver. A job title, not a personal name. Dry, gruff, drill-sergeant tone: "Those dummies won't break themselves." / "Not bad. You might survive out there after all." The title implies a garrison, army or camp. DRAFT (RPG prototype). In still-blade he keeps the threshold: alone in the instanced intro, he meets newcomers and trains them gruffly (comic), and turns up at points of the main quest to guide the player. He has a deeper, unknown story about why he is there, and the player learns more over time. Beyond still-blade he carries little long-term weight. DRAFT. See `locations.md`.
 - **The Player:** human in the prototype (male model in use, female in progress), level 1 to a cap of 60. No name or origin lore. DRAFT. In the full RPG the player picks from the available races (CANON); progression is in `specializations.md`.
 
 ## still-blade characters
+- **The Guide:** a friendly NPC in the intro town who gives general gameplay tips; a different character from the Quartermaster. "Guide" is a PLACEHOLDER name. DRAFT
+- **Path trainers:** one per path (Attacker, Defender, Ranged, Magic) in the intro town; a character learns path skills beyond the basics from a trainer of their own path, for coin, once they reach the skill's level. The quest that ends the intro tells the player to go outside and speak to the trainer. Names PLACEHOLDER. DRAFT
 - **The artisan:** an unnamed old artisan in the human kingdom that holds the tournament. The only one who can upgrade gear with the region's sky-fallen materials, a technique they created; how is a mystery. Protected and revered by the kingdom; serves only its citizens. DRAFT. See `items.md`.
 
 ## Roles and archetypes

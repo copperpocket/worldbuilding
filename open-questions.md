@@ -150,7 +150,7 @@ The plural names (Binders, Reavers) and the old deck names (The Arcane Circle, T
 ### Q42. Martial energy not restoring mid-fight (still-blade) vs TCG Champions gaining charges every turn and Bloodrush (Martial energy from kills in combat): a medium difference or a world rule? And why does it restore slowly in neutral zones like towns?
 **Answer:**
 
-### Q43. The human tournament (still-blade): what is it, who holds it, and is it related to the in-world card game's tournaments? Is there one human kingdom or several (`peoples.md` says "human kingdoms")?
+### Q43. The human tournament (still-blade): what is it, who holds it, and is it related to the in-world card game's tournaments?
 **Answer:**
 
 ### Q44. The prestige / rebirth idea lets a character gain Magic, but canon says Magic is born, never learned, and it is not an awakening of a latent gift. How do the two fit?
@@ -160,7 +160,7 @@ The plural names (Binders, Reavers) and the old deck names (The Arcane Circle, T
 
 ## J. Raised by lore review (2026-10-22)
 
-### Q45. still-blade grants skills from weapons (skill shots) and from paths by level. Is there an in-world reason, or is it purely a game mechanic alongside "skills built by training, questing and practicing"?
+### Q45. still-blade grants skills from paths by level (learned from trainers). Is there an in-world reason, or is it purely a game mechanic alongside "skills built by training, questing and practicing"?
 **Answer:**
 
 ### Q46. The sky-fallen upgrade materials: what fell, and when? Who is the artisan, and why can only they work the materials?
@@ -173,7 +173,7 @@ The plural names (Binders, Reavers) and the old deck names (The Arcane Circle, T
 
 ## K. Raised placing still-blade in the world (2026-11-15)
 
-### Q48. Is still-blade's province coastal or inland? Where are the kingdom's capital, its ports (for trade with other continents) and its neighbours relative to the province?
+### Q48. Where are the kingdom's ports (for trade with other continents) and its neighbouring kingdoms, relative to the capital's province?
 To be decided once a continent shape is chosen.
 **Answer:**
 
@@ -183,7 +183,7 @@ To be decided once a continent shape is chosen.
 ### Q50. Which places and eras do the card game's cards draw on (the whole world and all eras, still-blade's continent, something else)?
 **Answer:**
 
-### Q51. What is the climate of still-blade's province, and what major features does it and its continent have (great rivers, mountain ranges, lakes or inland seas, forests, marshes)?
+### Q51. What other major features do the capital's province and its continent have (lakes or inland seas, forests, marshes, more ranges and rivers)?
 **Answer:**
 
 ### Q52. Which races live on still-blade's continent? Do all six share it, or do some live on other continents?
@@ -202,7 +202,7 @@ To be decided once a continent shape is chosen.
 ### Q55. The creation myth: do the races share one story, or does each race have its own (and do they disagree)? What does each believe about the source of Magic and Martial?
 **Answer:**
 
-### Q56. How many continents, and roughly how large is each relative to the others? Which one is still-blade's, and where are the ocean and the other continents from it?
+### Q56. Exactly how many continents (five or six), how large is each, and where are the others relative to still-blade's mid-sized one?
 **Answer:**
 
 ### Q57. Does the Castellan (castle or fort) outrank the Commander (city guard), or are they equal, both under the Protector?
@@ -213,15 +213,6 @@ To be decided once a continent shape is chosen.
 
 ### Q59. Does a human kingdom use Magic users in its military (a branch, advisers, or none)? Mages carry stigma in the world.
 **Answer:**
-
-### Q60. Is the intro region in the capital's own province, or in a neighbouring duchy? If it is the capital's province, who rules it (the crown directly as a royal domain, or a Duke or Duchess with the capital as a separate city)?
-**Answer:** Leaning: Capital province, ruled by a Duke or Duchess, with the crown present in the capital (a royal domain was not chosen). Intro town and capital share the province.
-
-### Q61. What is the intro region's climate now that it is near the capital: temperate, or cool and misty inland of the coast, or a mix?
-**Answer:** Leaning: Temperate.
-
-### Q62. Why is a new character at the intro garrison post (basic training, a travel clearance, newcomers registered on arrival, a military start ending in discharge, or something else)? It must fit crafters, traders and hunters who never plan to fight in the tournament.
-**Answer:** Leaning: The intro garrison is a threshold: a magical place outside normal space, entered once and never returned to. See the lore-inbox entry on the threshold.
 
 ### Q63. What is the threshold (the instanced intro place) and why is the Quartermaster there? Is it linked to the creation story, to portals and magical items, and what other entities live in it? Deliberately a mystery; record decisions here as they come.
 **Answer:**
