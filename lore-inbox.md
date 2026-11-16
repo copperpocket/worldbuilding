@@ -349,3 +349,9 @@ Human kingdoms only. Every title is a PLACEHOLDER as a name.
   - Status: DRAFT
   - Source: user, in a worldbuilding session
   - Conflicts: none. Its name, seat and ruler are open.
+
+### 2026-11-15 — worldbuilding (the province seat)
+- **The province's seat is a second city, apart from the capital.** The Duke or Duchess of the capital's province lives in it. Cities near a capital make sense since the capital is the kingdom's densest area. The seat is simply where the province's ruler lives, and the user does not mind its exact label.
+  - Status: DRAFT (user: "second city i guess sounds right")
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. The seat city's name and place are open.
