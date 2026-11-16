@@ -355,3 +355,13 @@ Human kingdoms only. Every title is a PLACEHOLDER as a name.
   - Status: DRAFT (user: "second city i guess sounds right")
   - Source: user, in a worldbuilding session
   - Conflicts: none. The seat city's name and place are open.
+
+### 2026-11-15 — worldbuilding (the intro instance)
+- **The intro stays an instanced garrison post, for about levels 1 and 2.** New characters spawn there, do a few tasks and leave once, never to return. They then reach the intro town and play the open world from there.
+  - Status: DRAFT (user: "keep the instance, about levels 1-2 then the town")
+  - Source: user, in a worldbuilding session
+  - Conflicts: supersedes the 2026-11-15 note that the intro region covers levels 1 to 10; the intro town and its surroundings now cover about levels 3 to 10.
+- **Why the character is at the garrison is undecided.** The user rejects "here for the grand tournament" (many characters, like crafters, traders or hunters, would not compete) and is wary of "they joined the military" (it implies reporting to it), though it could work as a start that ends in discharge. Amnesia is "corny".
+  - Status: undecided
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. Open: Q62.

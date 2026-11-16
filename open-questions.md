@@ -219,3 +219,6 @@ To be decided once a continent shape is chosen.
 
 ### Q61. What is the intro region's climate now that it is near the capital: temperate, or cool and misty inland of the coast, or a mix?
 **Answer:** Leaning: Temperate.
+
+### Q62. Why is a new character at the intro garrison post (basic training, a travel clearance, newcomers registered on arrival, a military start ending in discharge, or something else)? It must fit crafters, traders and hunters who never plan to fight in the tournament.
+**Answer:**
