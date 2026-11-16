@@ -274,3 +274,22 @@ All of the following is for human kingdoms only. Other races will have their own
   - Status: DRAFT (user: "interesting... here and there when appropriate")
   - Source: user, in a worldbuilding session
   - Conflicts: `peoples.md` says each race governs itself and even allies only tolerate each other; a grant inside a human kingdom fits only as a rare exception.
+
+### 2026-11-15 — worldbuilding (human kingdom military)
+Human kingdoms only. Every title is a PLACEHOLDER as a name.
+- **Rank order, top down.** Marshal (the whole army), then Warden (a border region and its forts), then Protector (a city's whole military), then the branch leaders below it, then Captain, Sergeant, Veteran, Soldier, Recruit. Veteran, Soldier and Recruit command no one; a Soldier can rise to Veteran without ever leading. Sergeant is the lowest commanding rank (a squad of about 10). The crown appoints the Marshal and the Wardens (Wardens on the Marshal's advice).
+  - Status: DRAFT (user: "pretty sold on Marshal > Warden >", Captain through Recruit "i like")
+  - Source: user, in a worldbuilding session
+  - Conflicts: `characters.md` lists TCG cards named "Oathsworn Warden" and "Warmaster", and a drill sergeant; those are card names, not kingdom ranks. `specializations.md` has "Militia Recruit" and "Militia Captain".
+- **City military.** One Protector commands a city's whole military: the city guard (led by a Commander), the castle guard (led by a Castellan) and any other guard in the city. The Protector answers to the Consul, and to a Warden when required, and sits on the city council. The full structure applies to the capital and seat cities; other cities have a Protector alone, adding a Castellan only if they have a castle and a Commander only if they need a separate watch. A town's guard is a Captain under the Reeve. A village has no guard or a militia under the Elder. A Castellan is the leader of a castle or major fort.
+  - Status: DRAFT (user: "Protector is pretty good. Commander is great.")
+  - Source: user, in a worldbuilding session
+  - Conflicts: replaces the draft "Marshal" council seat from the entry "human kingdom structure and titles": the city council's seven seats are Consul, Protector, Chamberlain, Magistrate, Guildmaster, Harbormaster, Speaker. That entry also names the frontier fort commander Warden, keep Castellan and lesser post Captain, which this entry refines. Whether a Castellan outranks a Commander is undecided.
+- **Branches and their leaders.** Every branch ranks Captain, Sergeant, Veteran, Soldier, Recruit beneath its leader. City guard: Commander. Castle guard: Castellan. Field army: Commander. Mounted: Commander. Siege and works: Commander. Frontier: Warden. Fleet: Admiral. Royal guard (in the capital): led by the Protector directly. Branch leader titles are not important to the user; reuse is fine.
+  - Status: DRAFT (user's choices; the fleet's lower ranks are undecided)
+  - Source: user, in a worldbuilding session
+  - Conflicts: none.
+- **Knights are an honour, not a rank.** The crown grants knighthood and keeps a register of knights, who swear on accepting the title to answer the crown's call. Any rank can be a knight. Address: "Ser" (neutral).
+  - Status: DRAFT (user: "Ser is fine for now")
+  - Source: user, in a worldbuilding session
+  - Conflicts: `characters.md` has a TCG card "Ironclad Knight"; no rule there about knighthood.

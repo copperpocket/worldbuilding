@@ -204,3 +204,12 @@ To be decided once a continent shape is chosen.
 
 ### Q56. How many continents, and roughly how large is each relative to the others? Which one is still-blade's, and where are the ocean and the other continents from it?
 **Answer:**
+
+### Q57. Does the Castellan (castle or fort) outrank the Commander (city guard), or are they equal, both under the Protector?
+**Answer:**
+
+### Q58. Do the fleet's lower ranks (below Captain) keep the land names (Sergeant, Veteran, Soldier, Recruit) or use their own (e.g. Mate, Sailor)?
+**Answer:**
+
+### Q59. Does a human kingdom use Magic users in its military (a branch, advisers, or none)? Mages carry stigma in the world.
+**Answer:**
