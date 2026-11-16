@@ -119,33 +119,33 @@ The plural names (Binders, Reavers) and the old deck names (The Arcane Circle, T
 ## G. Creatures
 
 ### Q35. Are the RPG's wolves just wildlife, or tied to a larger threat? (The TCG also has Den Mother, Wolf Pup and Pack Alpha.)
-**Answer:**
+**Answer:** Ordinary wildlife in the RPG and the TCG; no larger threat behind them.
 
 ---
 
 ## H. The card game in the world
 
 ### Q36. What is the card game called in the world?
-**Answer:**
+**Answer:** Not yet. Part of the later naming session.
 
 ### Q37. How do the two framings fit: a TCG sold in a modern-day Earth shop, and a card game that may exist inside the fantasy world?
-**Answer:**
+**Answer:** Leaning: both stand. Inside the fantasy world, the card game is a commanders' war game played with painted cards, used to replay famous battles. On modern Earth, the shop sells a TCG that depicts that world; the shop frame never claims the world is real or fake.
 
 ### Q38. A lore word for tokens (summons, conjurings, reinforcements)?
-**Answer:**
+**Answer:** Leaning: no single word. Lore describes each by origin: conjurings (Magic), reinforcements (Martial), young (beasts). "Token" stays a rules word.
 
 ---
 
 ## I. Raised by lore review (2026-10-20)
 
 ### Q39. Do the RPG power types (Mana/Energy/Rage/Focus) survive under the class-then-spec model, for example as resources tied to Magic and Martial?
-**Answer:**
+**Answer:** Leaning: Mana/Energy/Rage/Focus were prototype borrowings only. The world has just Magic and Martial energy; each game decides its own resource bars.
 
 ### Q40. still-blade's paths: do the Martial paths (Attacker, Defender, Ranged) also pick a spec later? Do Attacker and Defender relate to Reavers and Bulwark, and what spec does Ranged lead to?
-**Answer:**
+**Answer:** Leaning: decided per game (see Q26). Whether still-blade has specs at all is undecided, a still-blade design question.
 
 ### Q41. still-blade's Magic path: is its later specialization earned through a quest, and is it drawn from Tempest and Binders?
-**Answer:**
+**Answer:** Leaning: decided per game (see Q26). Whether still-blade's Magic path gets a spec, and how, is a still-blade design question.
 
 ### Q42. Martial energy not restoring mid-fight (still-blade) vs TCG Champions gaining charges every turn and Bloodrush (Martial energy from kills in combat): a medium difference or a world rule? And why does it restore slowly in neutral zones like towns?
 **Answer:**
