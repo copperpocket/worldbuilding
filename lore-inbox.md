@@ -309,3 +309,25 @@ Human kingdoms only. Every title is a PLACEHOLDER as a name.
   - Status: undecided
   - Source: user, in a worldbuilding session
   - Conflicts: `characters.md` and `items.md` say "the one artisan" (DRAFT) in the tournament kingdom.
+
+### 2026-11-15 — worldbuilding (the intro region and the capital)
+- **The intro training ground is a garrison post.** The one-way intro, run by the Quartermaster, is a garrison post of the province's forces.
+  - Status: DRAFT (user: "good idea")
+  - Source: user, in a worldbuilding session
+  - Conflicts: none. Fits `characters.md` ("the title implies a garrison, army or camp").
+- **The intro town is inland, not coastal.** Inland is easier for a first area.
+  - Status: DRAFT (user: "inland might be better/easier to get started")
+  - Source: user, in a worldbuilding session
+  - Conflicts: none.
+- **The player plays levels 1 to 10 in the intro town and its surroundings.** They quest, return to the town to sell gear and take new quests, and meet hamlets and villages while questing.
+  - Status: DRAFT (user's game design direction)
+  - Source: user, in a worldbuilding session
+  - Conflicts: none.
+- **The intro region is in the capital's province, or a nearby one.** Around level 10 the player is introduced to the capital city. This could stretch to level 20 or further; the user is unsure. The capital is a place the player visits in this game, so it is on the game map.
+  - Status: DRAFT (user's direction; "probably")
+  - Source: user, in a worldbuilding session
+  - Conflicts: contradicts the 2026-11-15 entry "The province is far from the kingdom's capital... may not even be the closest province", and probably the climate entry ("cool and misty near the province, temperate near the capital"). The capital is also a coastal city near a river mouth (the layout entry), so an inland intro town in its province is consistent with a coastal province. If the intro province is the capital's province, the province has no Duke or Duchess of its own unless the capital is a seat. Open: Q60, Q61.
+- **The artisan.** One artisan stays in the intro town for testing. In the lore the artisan may live in the capital.
+  - Status: DRAFT (user: "yes that sounds fine for now")
+  - Source: user, in a worldbuilding session
+  - Conflicts: none.
