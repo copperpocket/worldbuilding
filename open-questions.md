@@ -175,22 +175,22 @@ The plural names (Binders, Reavers) and the old deck names (The Arcane Circle, T
 
 ### Q48. Where are the kingdom's ports (for trade with other continents) and its neighbouring kingdoms, relative to the capital's province?
 To be decided once a continent shape is chosen.
-**Answer:**
+**Answer:** Leaning: a province belongs to exactly one kingdom, and a kingdom holds several provinces. The misty province is one of our kingdom's own provinces. Neighbouring kingdoms lie wholly outside our borders: one beyond the mountain range, one along the coast past our last province. The capital at the river mouth is the chief port; the misty province has a smaller one. Exact positions wait for a map.
 
 ### Q49. Where does the MMORPG take place relative to still-blade: same continent (wider), a different continent, or the same lands in a later era?
-**Answer:**
+**Answer:** Leaning: the same continent and the same era, on a wider stage, so still-blade's region becomes one part of the RPG and its work carries over.
 
 ### Q50. Which places and eras do the card game's cards draw on (the whole world and all eras, still-blade's continent, something else)?
-**Answer:**
+**Answer:** Leaning: the whole world, mostly the present day, with legends from history.
 
 ### Q51. What other major features do the capital's province and its continent have (lakes or inland seas, forests, marshes, more ranges and rivers)?
-**Answer:**
+**Answer:** Leaning: an old crater lake in the inland wilds (the great fall's impact site); a large old forest between the capital's province and the misty one; the misty province's marshes and moors (already set); low hills inland; the great river's tributaries.
 
 ### Q52. Which races live on still-blade's continent? Do all six share it, or do some live on other continents?
-**Answer:**
+**Answer:** Leaning: humans (several kingdoms), dwarves (in the mountain range), halflings (river farmland, some on crown grants), orcs (beyond the inland wilds). High and dark elves live on other continents, known through sea trade and rumour. still-blade itself: player characters are always human (decided); NPCs are human only for now, other races possibly later.
 
 ### Q53. Where in the kingdom are the sky-fallen impact site and the tournament ground: inside still-blade's province, or elsewhere (e.g. near the capital)?
-**Answer:**
+**Answer:** Leaning: the impact site is the crater lake in the inland wilds, beyond the provinces. The tournament ground is near the capital.
 
 ---
 
