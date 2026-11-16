@@ -200,13 +200,13 @@ To be decided once a continent shape is chosen.
 **Answer:**
 
 ### Q55. The creation myth: do the races share one story, or does each race have its own (and do they disagree)? What does each believe about the source of Magic and Martial?
-**Answer:**
+**Answer:** Leaning: each race has its own myth, and they disagree, mostly over Magic and Martial. High elves: the world breathed life, and Magic is its breath (mages honoured). Dwarves: hammered from stone; strength is earned (distrust of Magic). Humans: different faiths by kingdom; still-blade's kingdom's is written first (one must exist before a game ships). Orcs: born of storm, under the moon. Halflings: a first garden. Dark elves: came out of a dark place outside the world (a hint at the threshold). None is the author's truth.
 
 ### Q56. Exactly how many continents (five or six), how large is each, and where are the others relative to still-blade's mid-sized one?
-**Answer:**
+**Answer:** Leaning: six continents: two large, two mid-sized (still-blade's is one), two small. Positions wait for a world map.
 
 ### Q57. Does the Castellan (castle or fort) outrank the Commander (city guard), or are they equal, both under the Protector?
-**Answer:**
+**Answer:** Equals, both under the Protector. Inside the castle walls the Castellan has the final word; elsewhere in the city, the Commander. The Protector settles disputes.
 
 ### Q58. Do the fleet's lower ranks (below Captain) keep the land names (Sergeant, Veteran, Soldier, Recruit) or use their own (e.g. Mate, Sailor)?
 **Answer:**
