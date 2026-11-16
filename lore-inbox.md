@@ -293,3 +293,9 @@ Human kingdoms only. Every title is a PLACEHOLDER as a name.
   - Status: DRAFT (user: "Ser is fine for now")
   - Source: user, in a worldbuilding session
   - Conflicts: `characters.md` has a TCG card "Ironclad Knight"; no rule there about knighthood.
+
+### 2026-11-15 — worldbuilding (the intro area is not the seat)
+- **The intro area is not the province's seat.** The Duke or Duchess need not live there, and the user wants the intro area smaller than a seat. A Duke or Duchess almost always lives in a city; a remote province that has not developed a city could have its ruler in a town instead.
+  - Status: DRAFT (user's correction)
+  - Source: user, in a worldbuilding session
+  - Conflicts: overrides the 2026-11-15 notes that the first city is "a provincial city" and the proposal that the starting town is the seat. The intro area's size and name are open.
