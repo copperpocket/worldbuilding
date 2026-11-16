@@ -40,30 +40,30 @@ The naming approach is recorded in `locations.md` (DRAFT): a consistent theme in
 
 ### Q14. Which races lean Magic and which lean Martial?
 On current cards, dwarves are mostly Martial and high and dark elves mostly Magic.
-**Answer:**
+**Answer:** Leaning: Magic in the blood, strongest first: high elf, dark elf, orc and human (varies by line), halfling, dwarf. Martial by culture: dwarves, orcs and humans strongest. Dwarven runecraft is the Magic of their rare gifted; orcs honour their storm-callers, so stigma against mages is weakest among orcs and strongest among humans and dwarves; halflings have small folk magic (hedge witches).
 
 ### Q15. What are the races' in-world names for themselves?
-**Answer:**
+**Answer:** Leaning: each race has its own name for itself in its own tongue; the games use human, dwarf and the rest as the translation, with native names as flavour. The names wait for the naming session.
 
 ### Q16. Are ogres and trolls peoples or beasts?
 They're typed Beast, but "Hired Ogre" implies someone who takes pay.
-**Answer:**
+**Answer:** Leaning: trolls are beasts (animal minds). Ogres speak a little, have no kingdom and hire out as muscle: a people in the world, not a playable race. The TCG keeps both typed Beast as a mechanic.
 
 ---
 
 ## E. Magic, Martial and specs
 
 ### Q17. Original in-world names for Magic, Martial, Command and charges.
-**Answer:**
+**Answer:** Not yet. Keep Magic, Martial and Command as working names; part of the later naming session.
 
 ### Q18. Is blood magic a thing, and how does it fit Magic being drawn from the environment?
-**Answer:**
+**Answer:** Leaning: it exists. Ordinary Magic draws on life already released into the world; blood magic draws on life still inside a body, one's own or another's. Costly, painful, and taboo among most peoples. Cinder Zealot fits.
 
 ### Q19. What is a "rift" (Rift Walk, Rift Mage, Riftweaver, Ysolde "the Unanchored")?
-**Answer:**
+**Answer:** Leaning: a rift is a brief tear a mage opens into the threshold, used to strike or step from somewhere else. Rare, mostly a dark-elf art. Ysolde "the Unanchored" rifts so often she has come loose from any one place.
 
 ### Q20. Are spirits (Arcane Wisp, Spark Imp) a form of Magic, released life, or something else?
-**Answer:**
+**Answer:** Leaning: released life that gathered thick enough to hold a shape before dispersing: wisps where much life lives or dies (old forests, battlefields). Imps are spirits a mage shaped with fire. Ties to Gathering.
 
 ### Q21. Are constructs magical?
 Stone Sentinels are "conjured" and Rune Shards "rune-carved", but Brass Automaton and Siege Golem are Neutral constructs any Champion can field.
