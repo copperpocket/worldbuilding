@@ -14,16 +14,16 @@
 - In game they skill up and are eventually given the opportunity to become a **"class"** (working word): their combat class, the most basic thing that determines their combat abilities.
 - They have some choice: pursue the class that best fits their skills, or work on other skills and try for a different class opportunity.
 - Afterwards, something similar determines their **spec**, and maybe a third tier.
-- **Conflict:** the CANON above has a single tier (a quest to join a spec). Under this model the four specs could be classes or specs; see open questions (Q26).
+- **Resolved:** paths, specs and their tiers are decided per game. CANON. This model is the MMORPG's direction.
 
-The prototype's WoW-style power types (Mana/Energy/Rage/Focus) are still unresolved; see open questions.
+The prototype's WoW-style power types (Mana/Energy/Rage/Focus) were borrowings only; see `magic-and-martial.md`.
 
 ## Regional differences (DRAFT, still-blade)
 - The world isn't fully discovered, and cultures train fighters differently by region.
 - In the (unnamed) region where still-blade is set, people are trained from youth into one of four broad paths: **Attacker, Defender, Ranged** (Martial) and **Magic** (only the born-gifted). The Magic path chooses a specialization later, around a high level. Path names PLACEHOLDER.
 - Elsewhere, specs are earned through a quest as described above.
-- Open: whether Martial paths also pick a spec later, how the paths relate to the four specs, and how the Magic path's spec is earned. See open questions.
-- **Skills come from the path, not the weapon** (still-blade). Q is the path's basic line attack and E is a skill only that path has; both need one of the path's weapons in hand. Weapons grant no skills. CANON (a game mechanic). Path skills beyond the basics are learned from a trainer of the path. Second Wind (Attacker), Guard (Defender) and Fan Shot (Ranged) are early examples. PLACEHOLDER (names and numbers are game tuning). Differs from "skills built by training, questing and practicing" above; see open questions (Q45).
+- **Per game:** world lore says only that cultures train fighters differently by region; each game decides its paths, specs and tiers. CANON. Whether still-blade's paths (Martial or Magic) ever pick a spec is a still-blade design question, undecided. DRAFT
+- **Skills come from the path, not the weapon** (still-blade). Q is the path's basic line attack and E is a skill only that path has; both need one of the path's weapons in hand. Weapons grant no skills. CANON (a game mechanic). Path skills beyond the basics are learned from a trainer of the path. Second Wind (Attacker), Guard (Defender) and Fan Shot (Ranged) are early examples. PLACEHOLDER (names and numbers are game tuning). Trainers are the "training" in "training, questing and practicing": a trainer teaches a technique once the student is ready, and the level number is the game's measure of readiness. DRAFT
 - **Path identities** (DRAFT, agreed design, may change after testing): Attacker masters the line attack and is far stronger with it in the open world. Defender blocks line attacks. Ranged clears groups and can briefly fly out of melee reach (no in-world explanation yet). Magic is an easy-to-aim area-damage caster that is fragile. Every path can line attack, and lines are equal except for damage, so a tournament counts hits fairly.
 - **Idea (undecided):** the line attack comes from a power gathered only from creature kills and experience in this region, which would explain why it isn't found elsewhere. The user called it "a cheap out". Close to Bloodrush. DRAFT
   - Second Wind spends a full Martial energy bar to restore about a third of health. DRAFT (game rule). See `magic-and-martial.md`.
@@ -43,5 +43,5 @@ The prototype's WoW-style power types (Mana/Energy/Rage/Focus) are still unresol
 - **A Neutral Champion**, "a leader of commoners, beasts and constructs", is a future idea. DRAFT
 
 ## Group names
-- **The Arcane Circle** (Magic) and **The Iron Company** (Martial): names of the two original TCG prototype decks. PLACEHOLDER. They hint that specs could also be organizations; not decided.
+- **The Arcane Circle** (Magic) and **The Iron Company** (Martial): names of the two original TCG prototype decks. PLACEHOLDER. Specs are ways of fighting, not organizations; local orders and guilds teach them and often give the joining quest, and these two are examples of such groups. "Binders" and "Reavers" just mean practitioners. DRAFT
 - **Militia** (Militia Spearman, Militia Recruit, Militia Captain, Call to Arms): commoner levies. PLACEHOLDER

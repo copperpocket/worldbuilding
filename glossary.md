@@ -28,7 +28,7 @@ Status is for the term as a lore word. Project: TCG = Magic vs Martial, RPG = be
 | Last Echo | Effect when a unit dies | PLACEHOLDER | TCG |
 | Token | A summoned unit that isn't a card; lore word open | PLACEHOLDER | TCG |
 | Lane | One strip of the battlefield where two units face each other | DRAFT | TCG |
-| Rift / Rift Walk | Magic that attacks through any lane; "rift" undefined | PLACEHOLDER | TCG |
+| Rift / Rift Walk | A brief tear a mage opens into the threshold, to strike or step from elsewhere; Rift Walk attacks through any lane | DRAFT idea, PLACEHOLDER word | TCG |
 | Gathering | Mages drawing on the life a dying unit releases | DRAFT | TCG |
 | Stalwart | A defender making every blow at the commander cost the attacker | DRAFT | TCG |
 | Overchanneling | Taking extra Magic now at the cost of the next turn | PLACEHOLDER | TCG |
@@ -42,13 +42,15 @@ Status is for the term as a lore word. Project: TCG = Magic vs Martial, RPG = be
 | Evade | Enemy pulled too far from home resets, fully healed | Mechanic only | RPG |
 | Quartermaster | RPG quest-giver NPC; also a dwarf TCG card | DRAFT | Both |
 | Training Dummy | Practice target / tutorial enemy | PLACEHOLDER | RPG |
-| Alpha Island | The RPG test zone | PLACEHOLDER | RPG |
+| Alpha Island | The RPG test zone; a build label, not a place | CANON | RPG |
 | Province / duchy / county | A large region of a kingdom; a duchy is one ruled by a Duke or Duchess, a county a smaller one ruled by a Count or Countess | DRAFT | World |
 | Seat | The settlement where a province's ruler lives | DRAFT | World |
 | Consul / Reeve / Elder | Heads of a city / town / village | PLACEHOLDER | World |
 | Duke, Duchess / King, Queen | Rulers of a province / a kingdom | PLACEHOLDER | World |
 | Protector / Castellan / Commander | City military head / castle or fort leader / city guard (and other branch) leader | PLACEHOLDER | World |
 | Marshal / Warden / Admiral | Army head / border region commander / fleet leader | PLACEHOLDER | World |
-| Captain, Sergeant, Veteran, Soldier, Recruit | Ranks beneath a branch leader | PLACEHOLDER | World |
+| Captain, Sergeant, Veteran, Soldier, Recruit | Ranks beneath a branch leader, on land and in the fleet | PLACEHOLDER | World |
+| The ranks / the command | Captain and below / branch leaders and above | PLACEHOLDER | World |
 | Ser | Address for a knight (neutral) | PLACEHOLDER | World |
-| Threshold | The magical, one-way intro place of still-blade | DRAFT | SB |
+| Threshold | A cosmic place outside normal space, planet-wide, tied to creation; still-blade's intro is one gateway into it | CANON idea, PLACEHOLDER word | World |
+| Limen | Alternative name for the threshold (Latin for threshold) | PLACEHOLDER | World |

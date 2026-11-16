@@ -3,7 +3,7 @@
 All names are PLACEHOLDER unless marked final.
 
 ## Champions (TCG)
-Champions are **named characters of the world**, each with a unique ability. CANON. Who they are (legends of history, present-day leaders, adventurers) is open. Champions are chosen by the player, not found in packs.
+Champions are **named characters of the world**, each with a unique ability. CANON. They are **present-day figures** (leaders, captains, renowned fighters), so they can appear in the RPG; a match is a battle one of them commands. DRAFT Champions are chosen by the player, not found in packs.
 
 | Champion | Race | Spec | Concept | Ability (Level 3) | Status |
 |---|---|---|---|---|---|
@@ -15,12 +15,17 @@ Champions are **named characters of the world**, each with a unique ability. CAN
 | The Warlord | none | Reavers | Prototype placeholder; to be named and reworked | Battle Cry: your units get +1 attack | PLACEHOLDER |
 
 Notes:
-- Vaelith's "exiled" implies a society that exiled her; who, and what she burned, is not stated.
+- **Vaelith** burned a living sacred grove to win a battle. High elves revere life as the source of Magic, so their ruling council exiled her. DRAFT
 - Brunhal's "stone guardians" match the Binders' Stone Sentinel and Rune Shard constructs.
-- The Archmage and the Warlord are kept as second Champions of their specs.
+- The Archmage and the Warlord are kept as second Champions of their specs. The Archmage will become a human Tempest mage and the Warlord an orc Reavers chieftain, giving humans and orcs their first Champions. DRAFT
 
 ## Named Legendary units (TCG)
-Each has only a name, epithet, race and rules text. The TCG has no flavor-text field yet. DRAFT
+Each has only a name, epithet, race and rules text. The TCG has no flavor-text field yet. DRAFT. Legendaries can be from the present or from history. DRAFT
+- **Ilvara, the Last Flame:** Vaelith's teacher, the last of an old high-elf order of war-mages the ruling council disbanded. DRAFT
+- **Bram Ironvow:** a dwarf of history whose gate was never breached; his vow is still sworn by dwarven pass-holders, Thoren among them. DRAFT
+- **The Unbroken Blade:** both an old orc blade that has never broken and the title of whoever wins and carries it. DRAFT
+- **Hroth's "Red Harvest":** the battle in a harvest field where his sweeping axe held the field alone. DRAFT
+
 
 | Card | Race | Tier / spec | What the card does |
 |---|---|---|---|
@@ -33,7 +38,7 @@ Each has only a name, epithet, race and rules text. The TCG has no flavor-text f
 | The Ashen Wyrm | Beast | Neutral | Flying; Arrival: 2 damage around it, both sides |
 
 ## RPG characters (beautiful-tree)
-- **Quartermaster:** the only NPC and quest giver. A job title, not a personal name. Dry, gruff, drill-sergeant tone: "Those dummies won't break themselves." / "Not bad. You might survive out there after all." The title implies a garrison, army or camp. DRAFT (RPG prototype). In still-blade he keeps the threshold: alone in the instanced intro, he meets newcomers and trains them gruffly (comic), and turns up at points of the main quest to guide the player. He has a deeper, unknown story about why he is there, and the player learns more over time. Beyond still-blade he carries little long-term weight. DRAFT. See `locations.md`.
+- **Quartermaster:** the only NPC and quest giver. A job title, not a personal name. Dry, gruff, drill-sergeant tone: "Those dummies won't break themselves." / "Not bad. You might survive out there after all." The title implies a garrison, army or camp. DRAFT (RPG prototype). In still-blade he keeps its gateway into the threshold: alone there, he meets newcomers and trains them gruffly (comic), and turns up at points of the main quest to guide the player. He has a deeper, unknown story about why he is there, and the player learns more over time. Beyond still-blade he carries little long-term weight. DRAFT. Whom he serves and why he trains newcomers is his mystery. He is not the TCG's dwarf Quartermaster (that card is a role, not a person). still-blade will rename him to fit his mystic role (Q64). DRAFT. See `locations.md`.
 - **The Player:** human in the prototype (male model in use, female in progress), level 1 to a cap of 60. No name or origin lore. DRAFT. In the full RPG the player picks from the available races (CANON); progression is in `specializations.md`.
 
 ## still-blade characters
