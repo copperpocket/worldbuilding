@@ -14,25 +14,25 @@ Question numbers are stable IDs; don't renumber them.
 
 ### Q7. Names for the world, continents, realms and capitals.
 The naming approach is recorded in `locations.md` (DRAFT): a consistent theme informed by real languages, starting with the human kingdoms. The names themselves are still open.
-**Answer:** Not yet
+**Answer:** Leaning: no shared name for the world; each people names it in its own tongue. Naming themes by people, informed by real languages: still-blade's human kingdom Old English (fits Reeve, Moot, Elder); dwarves Old Norse; high elves Welsh-like; dark elves sharper, Latin-like; orcs short and hard; halflings plain rustic English. The names themselves wait for a naming session.
 
 ### Q8. The main present-day conflicts, per race.
-**Answer:**
+**Answer:** Leaning, all regional: humans, rival kingdoms disputing the unclaimed wilds, beasts pressing out of them, tension over mages at home; dwarves, holding mountain passes, clan disputes over mines and runes; halflings, small farming peoples caught between larger neighbours, many on crown-granted land; high elves, an internal rift over war-magic, old enmity with dark elves; dark elves, intrigue between rival houses, old enmity with high elves; orcs, rival chieftains feuding for land and standing, some raiding borders, many selling their swords.
 
 ### Q9. Which races are allied, and which are not?
-**Answer:**
+**Answer:** Leaning: no race-wide alliances; each kingdom, clan or house makes its own. Common pattern: humans, dwarves and halflings often allied through trade; elves tolerate humans at arm's length; high and dark elves are not allied; orcs make no formal alliances, but individual orcs hire out to anyone.
 
 ### Q10. The ancient escalations, and the great threat that could someday unite the races: what were or are they?
-**Answer:**
+**Answer:** Leaning: the largest ancient escalations followed the moon's cracking, when the fall struck many lands and peoples fought over the fragments and the ruin. The future great threat stays undefined, with one hint: whatever cracked the moon may not be finished.
 
 ### Q11. What is "out there" beyond the RPG's training grounds? What threat does the Quartermaster mean?
-**Answer:**
+**Answer:** Leaning: on the surface, simply the world beyond the gateway: the wilds, their beasts, rival kingdoms. He hints at more than he says, tied to his own mystery (Q63).
 
 ### Q12. Is "Alpha Island" a real place, and is the RPG's starting area really an island?
-**Answer:**
+**Answer:** A build label, not a place. still-blade's starting area is a gateway into the threshold, not an island.
 
 ### Q13. Does "beautiful-tree" mean anything in the world (a working title, or a tree that matters)?
-**Answer:**
+**Answer:** A working title only, with no meaning in the world.
 
 ---
 
