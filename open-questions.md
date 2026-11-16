@@ -73,7 +73,7 @@ Stone Sentinels are "conjured" and Rune Shards "rune-carved", but Brass Automato
 **Answer:**
 
 ### Q23. Is there an in-world reason why Magic moves only enemies and Martial only its own units, why Casters pierce Armor, and why only Martial units Overrun?
-**Answer:**
+**Answer:** The world rule is where the energy comes from: Magic is drawn from the world around the user, Martial from within. Neither is limited in how it acts (Martial could launch something outward). The TCG's movement, Armor and Overrun asymmetries are game design, not world rules.
 
 ### Q24. Where do the RPG's frost and healing spells fit?
 Tempest covers fire and storm; no spec covers frost. Mend is self-healing magic. Do they belong to existing specs, future specs, or sub-specs?
@@ -84,7 +84,7 @@ The plural names (Binders, Reavers) and the old deck names (The Arcane Circle, T
 **Answer:**
 
 ### Q26. Are the four specs top-level paths, or sub-specs of something broader?
-**Answer:**
+**Answer:** Paths, specs and their tiers are decided per game. World lore says only that cultures train fighters differently by region. still-blade may have paths only (undecided); the MMORPG gets more depth.
 
 ### Q27. Why do the dead come back in the RPG (player and enemy respawn)? An in-world reason, or purely a game mechanic?
 **Answer:**
@@ -164,7 +164,7 @@ The plural names (Binders, Reavers) and the old deck names (The Arcane Circle, T
 **Answer:**
 
 ### Q46. The sky-fallen upgrade materials: what fell, and when? Who is the artisan, and why can only they work the materials?
-**Answer:**
+**Answer:** Leaning: the moon fragments fell across many lands, most heavily in still-blade's region, so most of what survives is there; elsewhere much was used up, decayed or buried over the millennia. Small amounts remain in other regions, where artisans work them in their own ways, so the materials behave differently by region. Still open: who the artisan is and why only they can work them in this region.
 
 ### Q47. Where do gems come from in the world? Are they sky-fallen like the upgrade materials, and why can the artisan work them?
 **Answer:**
@@ -215,4 +215,4 @@ To be decided once a continent shape is chosen.
 **Answer:**
 
 ### Q63. What is the threshold (the instanced intro place) and why is the Quartermaster there? Is it linked to the creation story, to portals and magical items, and what other entities live in it? Deliberately a mystery; record decisions here as they come.
-**Answer:**
+**Answer:** The threshold is not still-blade's intro alone. It is a cosmic place outside normal space that exists for the whole planet, tied to creation and the cosmic questions; still-blade's intro is one gateway into it. Some regions may not know it exists; whether portals make it common knowledge is open. Name: Threshold (PLACEHOLDER; "Limen", Latin for threshold, kept as an alternative). Still open: why the Quartermaster is there, what else lives in it, links to portals and magical items.
