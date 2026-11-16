@@ -197,7 +197,7 @@ To be decided once a continent shape is chosen.
 ## L. Raised on the planet and the cosmos (2026-11-15)
 
 ### Q54. The cracked moon: is it still visible in the sky (broken, ringed, missing a piece)? Did fragments fall in one region or on every continent? Did the cracking change anything for the peoples (a date, a cataclysm, a start of calendars)?
-**Answer:**
+**Answer:** Leaning: the moon is not an ordinary moon. A great glowing wound pours colourful magical energy, a spectacular sight especially at night; why a giant magical sphere is in orbit is unknown. A few smaller, ordinary moons share the sky, which shows how strange the great one is. "The fall" is the event itself: the moon cracked and its pieces rained down on the planet. Timeline: tens of thousands of years ago (about 30,000; exact figure open), before any written history, so peoples know it through myth, the crater and the fragments. Calendars: each people counts years from its own most recent major event (a founding, a war, a crowning); specifics open.
 
 ### Q55. The creation myth: do the races share one story, or does each race have its own (and do they disagree)? What does each believe about the source of Magic and Martial?
 **Answer:** Leaning: each race has its own myth, and they disagree, mostly over Magic and Martial. High elves: the world breathed life, and Magic is its breath (mages honoured). Dwarves: hammered from stone; strength is earned (distrust of Magic). Humans: different faiths by kingdom; still-blade's kingdom's is written first (one must exist before a game ships). Orcs: born of storm, under the moon. Halflings: a first garden. Dark elves: came out of a dark place outside the world (a hint at the threshold). None is the author's truth.
@@ -209,10 +209,10 @@ To be decided once a continent shape is chosen.
 **Answer:** Equals, both under the Protector. Inside the castle walls the Castellan has the final word; elsewhere in the city, the Commander. The Protector settles disputes.
 
 ### Q58. Do the fleet's lower ranks (below Captain) keep the land names (Sergeant, Veteran, Soldier, Recruit) or use their own (e.g. Mate, Sailor)?
-**Answer:**
+**Answer:** Leaning: the fleet keeps the land ranks (Captain, Sergeant, Veteran, Soldier, Recruit). Captain and below are called "the ranks"; branch leaders and above are "the command". Both terms PLACEHOLDER.
 
 ### Q59. Does a human kingdom use Magic users in its military (a branch, advisers, or none)? Mages carry stigma in the world.
-**Answer:**
+**Answer:** Leaning: Magic users serve openly. A kingdom's military has a Magic branch of battlemages with its own branch leader (title open; reusing "Commander" is fine). An elite Martial branch for fighters far above the ordinary soldier's inner energy is possible but undecided. Prejudice against mages exists in society, but doesn't hide the branch.
 
 ### Q63. What is the threshold (the instanced intro place) and why is the Quartermaster there? Is it linked to the creation story, to portals and magical items, and what other entities live in it? Deliberately a mystery; record decisions here as they come.
 **Answer:** The threshold is not still-blade's intro alone. It is a cosmic place outside normal space that exists for the whole planet, tied to creation and the cosmic questions; still-blade's intro is one gateway into it. Some regions may not know it exists; whether portals make it common knowledge is open. Name: Threshold (PLACEHOLDER; "Limen", Latin for threshold, kept as an alternative). Still open: why the Quartermaster is there, what else lives in it, links to portals and magical items.
