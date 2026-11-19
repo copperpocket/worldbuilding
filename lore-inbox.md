@@ -62,3 +62,23 @@ New lore captured by `/handoff` from any project, waiting for `/lore-review`. En
   - Status: CANON
   - Source: still-blade `docs/design/world-layout.md` (section 3)
   - Conflicts: `locations.md` says the player quests around the intro town "from about level 3 to 10".
+
+### 2026-11-17 — still-blade
+- **The forest and hill counties, first layouts:** the forest county (west branch) has a county town, a crossroads town where the road from the capital forks, a north road town, a fort on the misty road and a fort on the seat road; the old forest walls its west side and the outer wilds its north. The hill county (east branch) has a county town, a river town by the gorge, an east hill town, a seat road fort and a fort facing the unsettled foothills; the great river runs up its west side with the kingdom road beside it.
+  - Status: DRAFT (layout, agreed for the game build); PLACEHOLDER (every name)
+  - Source: still-blade `docs/design/branch-counties-sketch.html`, `ForestCountyBuilder.cs`, `HillCountyBuilder.cs`
+  - Conflicts: none known
+- **The forest county reaches the coast** along its south edge.
+  - Status: DRAFT (user accepted the proposal)
+  - Source: still-blade `docs/design/branch-counties-sketch.html`
+  - Conflicts: none known; `locations.md` doesn't place the old forest's coast.
+
+### 2026-11-18 — still-blade
+- **The seat county, first layout:** where the forest and hill branches rejoin. The walled seat city (the province's second-largest settlement, with the seat's keep and a big market on its plaza) stands on the great river near the east side, a few minutes up the road from the hill county's gate; four towns (on the west road, midway, the south vale, upriver), three forts (the marsh in the west, a north watch, the March road), villages and hamlets. A marsh on the west side, the March county beyond the north edge (its road closed for now), a ridge to the south against the capital's county with no way through.
+  - Status: DRAFT (layout, agreed for the game build as a first pass); PLACEHOLDER (every name)
+  - Source: still-blade `docs/design/seat-county-sketch.html`, `SeatCountyBuilder.cs`
+  - Conflicts: none known
+- **The March county, first layout:** border country, a wide, shallow strip under the wild wall (cliffs and dense woods along its north and west edges), with the unsettled foothills to the east and the seat county to the south. Sparsely settled: a county town just inside the road from the seat city, a town in the eastern foothills, a town on the western moor, a few villages and hamlets on poor farmland. Three forts stand on the wall (an east watch, a west watch, and the last fort, whose gate is the only way into the wilds), with watchtowers between them and a road along the inside of the wall linking them all. Moors, a fen under the west wall, pine slopes and scree in the foothills. The great river doesn't reach it. Who garrisons the wall is left open (see the Warden's march entry above).
+  - Status: DRAFT (layout, agreed for the game build as a first pass); PLACEHOLDER (every name)
+  - Source: still-blade `docs/design/march-county-sketch.html`, `MarchCountyBuilder.cs`
+  - Conflicts: none known
